@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Nik848/kubernetes-cd",
+  "pipelineDirectory": "kubernetes-cd",
+  "workspaceDirectory": "kubernetes-cd\\kubernetes-cd",
+  "repositories": {
+    "Nik848/kubernetes-cd": {
+      "repositoryPath": "kubernetes-cd\\kubernetes-cd",
+      "lastRunOn": "09/23/2026 18:59:55 +05:30"
+    }
+  },
+  "lastRunOn": "09/23/2026 19:12:54 +05:30"
+}
